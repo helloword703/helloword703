@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a chemisty student 
-- 👀 I’m interested in chemistry and 
+- 👀 I’m interested in chemistry and other thing that make life better
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on modefing others scripts
 
